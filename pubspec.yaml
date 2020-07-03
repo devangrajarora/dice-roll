@@ -22,3 +22,10 @@ flutter:
 
   assets:
   - images/
+
+  fonts:
+
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+
