@@ -46,7 +46,6 @@ class DicePage extends StatefulWidget {
 class _DicePageState extends State<DicePage> {
   int left = 1;
   int right = 1;
-
   @override
   Widget build(BuildContext context) {
     return SafeArea(

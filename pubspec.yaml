@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shake: ^0.1.0
+
 
   cupertino_icons: ^0.1.2
 
