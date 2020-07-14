@@ -1,4 +1,4 @@
-# dice-roll
+# dice-roll 🎲🎲
 
 An interactive Flutter app where a user touches the screen to roll the pair of dice 
 
